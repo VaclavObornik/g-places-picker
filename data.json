@@ -1,0 +1,351 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "CpQDjAEAAKKTaihjlY67Va8uyoYerrfAF8icIK2qLDgulkw9_4ovRO19ZyqNoecFx4UHWN6oLbPzXrDcJ8lqTA0W3LgVGLv6WcooJz6WDKFJ8EDCvvSlqER_E_8r3pYlTd8tijQO_TanefslOHF0uq-wvKUshLN9lu_cIuNW0cSR_B6UcDOIw5r0Fh9-jyKqCKowkLpWhEWPibc4-X798XZqAb5ie0t74oLNxiSdubV7Fx3_tK1LSlqu9DCg03dj0qvEraiZk4h935eAORHbfk9Gxd-Ratol2RUF_W5aINgAFkC37RutNDCWwySDA4q_sbtLlt3agU5BzKAEaqOX1yUCfJ8CTW2EfgagMS1M8U68TQp3L2kVpSQvykorAE9BImux7r02er1KJnWDn_C_RVqTchXkVNiEwAvcqmfxwJ0KMPwvr4c-RWDFMhbGxRtAXftFR8AmpJxMh2qtXryBKGb7tifSrXk-g-gbGoDZKApIb6Y_vosOB1FOB2M_v-a7QKM8sNIHHwYzIpA0q5dGVkYfTt6mDmMSEAE2xWTrbPBY6HiJAKmx3EUaFEQ4Mp2HYXdDEIIieCaH6z_lK4BW",
+  "results" : [
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.029281,
+          "lng" : 15.769863
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3f813ab7546e7823b4bb1fbef6ccf1715c711bc1",
+      "name" : "Masáže Kuchařová",
+      "place_id" : "ChIJ-4QGOJfMDUcRG7LrFHutDng",
+      "reference" : "CoQBdQAAAPKmBkuK-dZr0sAzwZFkZdotZQSWvp6IFupsmNFsAR_8wtgDxAOp1DgiC3-K5-UcMNiN8db7qjobs7B-_BAAXX3jNECVwMTLi5EthAf9vxxtkJkoCdq83l9wbFQMx8DijBp-_iayR9tQYQZRxsqDTa7EFOHziSuIVL0Cc03Z1ZR6EhDsF_zXYV0aP9M-cgf3vQDJGhR-yTDyi-sVQtzJO-or6M-9_a22zg",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Milheimova 611, Pardubice V"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.029385,
+          "lng" : 15.770392
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "530bef61339a8d6ef76167c570faf600578d766e",
+      "name" : "Jaroslav Rulíček",
+      "place_id" : "ChIJkUpUNpfMDUcRo1Epv2uMlNQ",
+      "reference" : "CoQBdAAAAM0oUTHw7A_6rR_4YzK0A3ArZzmhtmKPA230yUOy4Tf2XVNct8G7SDvi-rGY-v0eymxmiMXToWjPILN4jNmFuqBoX3qVs6KI3li4g8hIScNpKkiAZYpZ_tW_C9Q3CyHe9J_VzwCXle3foZuj5T0z1NUNzkaYE6Hx9ejHP5zfpNZgEhDiXYljL9BryCmiJHQjIVTuGhQaXGI7Lb6jQt_w1VUaf9M8WHPulw",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Jana Palacha 511"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.028785,
+          "lng" : 15.770718
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6eb6f3a25ea905acbd60ead5fd79b37cf8db6257",
+      "name" : "Elekt - Martin Chmelík",
+      "place_id" : "ChIJ51Zks5DMDUcR8Qtrd-wNmTM",
+      "reference" : "CoQBeAAAAJEvoDFOC6J67wbS4hrj73Ht-8teu0Zbkx7kqfziGtO-_MTiSVxMvfMKhL9FZ6z-YRuDQ2CfVxqS788STKy6ZdtBa0GBDxAAiaSuQKVwlUMbLMfSb6mm0iNB0sgZrH9lTh9YoYzO7J6pEibQhhtMi0cocQpXtAnCxv5zVTHDSyYoEhDE09lI3-oZg-uyE362eoQ_GhTEPS5zvEXzOf1DsU_MX_UHYThbfQ",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Jana Palacha 234, Pardubice V"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.028581,
+          "lng" : 15.768883
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "edc0b9b39dbd78e3ecee5f8ee096a69a3240fcc2",
+      "name" : "Jiří Kozák - Motoservis Grizzly",
+      "place_id" : "ChIJEf2OXJfMDUcREwPyn7NPId4",
+      "reference" : "CpQBhAAAAAa_ST7t3QcPI_O6bDmAzbM0S8F0XouENARisftcwo4QHi15M2ZWQGOiq9WZb8TIcBeAInsk6p_jVxWDr-4OCF3DG73opgHKRqdFBVvZuFo5nIBM3fI8Rlf4X_85BxxwVnVPfHdfpp-nGn4JcLDRNP-hLigEr44wTMGOVTtsnf2XGttL-AWoIkaQfhfR7N1FNBIQKWCuVS20IBooV8_MK56cCxoUSKm6fTtkZ0VYTKMWskQ1dP52ct4",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Češkova 799"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.028678,
+          "lng" : 15.770446
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "91a6750d5f92593161c4d5ea0ea0454ae51407e8",
+      "name" : "SKP - Centrum, Občanské Sdružení",
+      "place_id" : "ChIJvYohs5DMDUcR_Zbo24GCgJE",
+      "reference" : "CpQBhgAAAEX_7JHI4rtkcSjFrgwK4lWunWKq_pex_zWHklKJzXEhknlkGa7-p1tyPr8U6LySneJiJpNEBz9tfkK7I2zZTNGhYLZgU9IPAcrX_DYYo61D-ADuvsL35-MlG3l_6FGNahBDB16H02KJffx1xO_uXmkG7_oj97pPu7ZdX1DWFeU2OKL_oO1izPlTniMXnGwT2RIQhSl_dFUzaStkFJSZv3K7-RoU-OjWGOUYx7XSVFiF_q8yD-dv7J0",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Jana Palacha 324, Pardubice V"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.028402,
+          "lng" : 15.770483
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "98d705882cfeeb94c3acd757996531ba8151018d",
+      "name" : "Textil U Malých",
+      "place_id" : "ChIJdyolrZDMDUcR08e2JmO7BLA",
+      "reference" : "CoQBcgAAAEjtlFSDUdANHXq-Fq1X8by0Il6oOssT2Gy3mHuMUZLurkXsLSpCgc00DtJmSbBmtqUFwVVEZl5EornNpfT5JcV6bbZ_aEKnXNnpc4kXOegbW3kGvs3gKwPvo3HJjZExfjyOC6ENA601FrWlFof278xNDPGz6dbbJ7GFHMxfmffwEhBD-iyk10TGOelZgSeTsHWfGhSBxspgN_-xE1rSl8cIKxHNoetYAA",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Jana Palacha 494"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.028739,
+          "lng" : 15.770761
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ba3d87c68be212afa8e345873ccba586f91ee787",
+      "name" : "Autopůjčovna Habětínek",
+      "place_id" : "ChIJhVPss5DMDUcRaWZZ7iJcBEc",
+      "reference" : "CoQBewAAALFbHPC7kXlXmkFdcIQK4wTdADOHOc7Ang1NWM0VuSXDJmrcqTHf1DXEdPwBOtAUV9Kkq63ZQF9u96768rIJUY6nWMzQk2oQ6qNa5b1MXMs2n55Z1k7aGy7BoW-EbB5MPRBPReXZw0V7W4aleXk7twyNbNHPCUJNM7Wzv3nNkysLEhC0hY8SSpseXVX_TsbXoRJ6GhSPSG29vBqEy9ac3YSgorFSeBQ6Rw",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Jana Palacha 234"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.029093,
+          "lng" : 15.768981
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "166f2704587ba5dfa2b490dcc5ae8030caf51845",
+      "name" : "Domino F spol. S R.o.",
+      "place_id" : "ChIJEa7rQZfMDUcRH-109agYQB8",
+      "reference" : "CoQBdgAAAHjCYoYXNMUktS37EMjMgZ_iI1Yv1plCIQdvmCo_DIsg4PtcWVEZDT-htoQ8dhgJ4IAaYOidsEp5-j7D8RUKhU7gStu-L6HlGHyCRZcP4aTFYT69FIedp3xw0n0rVs3-ePgR_9pR8tTbay0z0qP-hH1kQ4Fy2P8g6JeeUHMNbrZuEhDzI6NlyKicM5jxwZzwkSJTGhRzrevYlS5zVkb97gFX7KssQ6njOQ",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Milheimova 1283, Pardubice V"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.029139,
+          "lng" : 15.77004
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e9abe94fbe8d76a0293f71544632290c606ccc59",
+      "name" : "STING Pardubice S.r.o.",
+      "place_id" : "ChIJ9yFTSJfMDUcR9ibiZwekPxM",
+      "reference" : "CoQBdwAAAHVfr1iaGXkBF36bkYUYK47Rk1fuK2OJsQe4Y3GD0jaMBR1JjHiWGgzBFP26anScmMzgFs3yRqqJE4gZRIIsQ0SFqvd1a-Fqqi7T_Dxfi4-tSmQ9C3eXUaWBNqYU-0FFSI0ZPbiQjYdKZIaXlSuZuHXeE0p9Lk3hq6D8X4Cm-0hmEhCArVUhP3hd8Sx__fp-QBhZGhQZPwvm8yALH6289yCCktmavpLf4w",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Milheimova 836"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.028525,
+          "lng" : 15.77006
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4160da67ab2026f28fe2455eaf2034ff48af09b9",
+      "name" : "Tonometry Pardubice s.r.o.",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "place_id" : "ChIJvamEUJfMDUcRESy8_JJwzWw",
+      "reference" : "CoQBewAAANOXGMb2jxy5TSTz0vf1XihTWvejp-4MxKcrws0tfR13ESgsFyVjdyCADu4IoxwyRhrcSqUKx-mgA6Ntf7oT7OoRT9vB_jnXMLvcTzM86BW16Orzu7VjzHEk0QtIUkhyEUkHGvNfxIiep_6j8bZoaeyEy-aFAj9foNLifNjxVVsHEhAayAvGxE3gRbSMvbC1uLL7GhSw43gvOg9daX_C_utGMM9OQrqg_Q",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "health", "establishment" ],
+      "vicinity" : "Jana Palacha 2764"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.028299,
+          "lng" : 15.768957
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "34d5310ad6e82936e49e822b409efe5f6f04527d",
+      "name" : "Netforms s.r.o.",
+      "photos" : [
+        {
+          "height" : 90,
+          "html_attributions" : [],
+          "photo_reference" : "CnRlAAAAscxNXFbCoWMGttGVu-1pQ18YlfcH5s1QblpMJcRKnGh5HY2YvUtIGX2aEIc4JeYd5WCV3LugeYP7-J-jenEUsaqKaoTSHIY0gXMEEgRe3Z52QPB4EGAloUDD4cEPx31VjGSy3YpDm8BFaaP4p4m7nxIQBku7TisoOdZmYZ-jOzcbmhoUDta6fHeXoRQhdQ4qwwPY27pqHPA",
+          "width" : 90
+        }
+      ],
+      "place_id" : "ChIJ1ZI6apTMDUcR0ToWWwuohws",
+      "reference" : "CnRwAAAAVHmQbC4GSCTLPZceokCm0tYD-nHkKrjkSE3zhNnBSvWZjjyGNBnqFYZD_J-tu2PbBPv9N0cVm8OJpXRLdHjJjhygYMSKkP4C6pfpFKOAFeOudx0ky4lw8f-9YjzyFNA_Nngsos_V9A_N1Chd41hxsBIQ6WGgAmMoq_B-x12B3MCJ5BoUQogevTudg_Nr5g7qvmZLrUuNpD8",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Češkova 834"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.028739,
+          "lng" : 15.770761
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cf9a06b5f024f093dee320dfcb0ed2d1fa199373",
+      "name" : "COMED plus, s.r.o.",
+      "place_id" : "ChIJhVPss5DMDUcR4lHIr-w5a-U",
+      "reference" : "CoQBdAAAADOtjscwsAD6JpfmQJrLstUc0aQCtk8G_TmN4kt2JdWLS_3bGYQIYm1-XElZfTuVnbBRiMrXTCAWCvSxok-z7fP8Y4dQV_WXGTAhM9DC2o7CH1Ltq14MRt8fphLBRfm4sM54OiAJgKfH0CRQNhc_plfzWg8qAE9xTIenZOphJK_6EhDCBk5Ymes30ZdQfzt6ZsjiGhREZpBv0K-0lMiwbnZYrgTilY22XQ",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Jana Palacha 234"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.029385,
+          "lng" : 15.770392
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "16a3814ec6d7cdc9d2f46d67a3e60b7e83af49bb",
+      "name" : "Mango, V.o.s.",
+      "place_id" : "ChIJkUpUNpfMDUcRYwCh5SYYHSE",
+      "reference" : "CnRuAAAAtzAQXI38ZFYbYfajO4mB-p9B6BLb0yPr8--FJn_MB-_-BShJmXvDYLnqqSF3ZEfu8q-Bs7K5bktMSzP_UXOFHm3awFGCaDPxLnJZXHT2pd8cIxywZZr7I9ep4j8wvu-hmXZNaXr7-hv0iLVnS36gzhIQJYoQaA5J83wi1vshkC7-ARoU_UyVi1wbfxphPeQ0xRH3v4BQXZo",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Jana Palacha 511"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.029247,
+          "lng" : 15.768338
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a387d3af4bd3ce66a1a11a5cbd7c373e7c48c10b",
+      "name" : "Stodola Vítězslav",
+      "place_id" : "ChIJ3d1WbJfMDUcRvWT4p7rgqLw",
+      "reference" : "CoQBdQAAAEE_XDgS1sDnvRDgqkvQQVyWjfu2sEaGTk4wnxB_20yWh0bsnccaocmwGXwFoE6xqYrLAtxgTOK6P1XO2WtakvHFsZbUZ26QY6KJQvUr9RdGoNAV0zJ45AMqyTp_7DMCco_B1TvZVuR0d6px8a0DNdC1ep_BuM_Sb3eaDiwXZ07wEhA_pr-fIFed3PcKYaGwj_LhGhR5vbXGNySkpAChUFWPpr1rRFFvAg",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Milheimova 1284"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.029281,
+          "lng" : 15.76981
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "70e77d844bd56ce341ef1d99623322bc606c2696",
+      "name" : "Labo S.r.o.",
+      "place_id" : "ChIJHXlpOJfMDUcRnLc5umkD76c",
+      "reference" : "CnRtAAAAnUao_36j1j18naWIYNq1aMGTEnZ8kxzzInEYZxsusdtBTg7oXgLmYyp0vX-qB4vwx3j3mT-4EvTHrD9V1HwVXa43k-ja8CkuVUUDQxsvhWjCXvS07j5GjXhuuGlgAJsNp4eOeUuFES1XuNZko-lT8RIQq-fs9QaCbSPCL6UnKyCJJhoURUew-w81lIWHrchcOwT1d8wWHwg",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Milheimova 611"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.029149,
+          "lng" : 15.77031
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "99addd1f6a49cb4accc483c1d7095e2839040480",
+      "name" : "Potraviny U Třílístku",
+      "place_id" : "ChIJqY0hSpfMDUcRgFRMQPngSd0",
+      "reference" : "CoQBegAAAGNd2q7pL_zn_c8w7pGp9kn2bXETvjzsZj_LbKmqAC70sglmwPb5twyAtiYlIYmNfZ89e6L35lQ26PLbSCxqsG6V9s6xz1npSTdr6WuuCvxJ-vqKsp6RtbCmeRL2wwbTais8jVHMFfctoaXvwU6mNVX9YhUZzeDYcnC2sqAyFpiFEhCX-JPF5wPpVKnUCWAyypJWGhTDgyw7f2Iw5Z-QtjMT_t0pKznbaQ",
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "vicinity" : "Milheimova 948"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.028631,
+          "lng" : 15.770451
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8aaedd2455c10dd5dacb66b16ab99c541c0fd273",
+      "name" : "Maso-uzeniny Prodejna",
+      "place_id" : "ChIJW-0-TZfMDUcRSdN-WAePcE4",
+      "reference" : "CoQBdgAAAN0lX8RNbjuiY5gnmb_1NZ55OkPaMfO2VwF7QwZL2-m14YOnH1P_85Vgr-ceH6_04BFBhKG5rs_q6AAN_OGOVhL56tLye1jNBuG-BUnXmTNpkIS_TvTeGQUfPrEpQZElS_MumcOFeL8zmlKSAvuQa5I6O-24RVtwAIGKP5U3diibEhAGakY0-GgqiMTTSlvT-u0OGhRtXOVe_xLqLv6Ps_-1-Gzjpyu91Q",
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "vicinity" : "Jana Palacha 571"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.029702,
+          "lng" : 15.769832
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f645f2d6aec2d23f2643e0baaf80a2d4faf40bb3",
+      "name" : "Sportovní klub Pretorian Pardubice o.s.",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 1133,
+          "html_attributions" : [],
+          "photo_reference" : "CnRnAAAAwghCC2i9alXJEMjUsNA63i77JLFY0RlM30LmokX1ZRBYLvh3VmloyNJC9UDC0-PwHjPOgV6LyqgaSAQkDjIdftsQAbJVB5eSS-PELQft0oSbRCKkLrCK-EPxQBvwUL8-q7ob89ivRQ00N-afE5zIrhIQYTGBdsghaouhdhJ2ZSfUeRoUrfxaJsEHNueWhF-_3B84RMEmKxo",
+          "width" : 1700
+        }
+      ],
+      "place_id" : "ChIJ_dpOHpfMDUcRGOXJVqd878M",
+      "reference" : "CpQBigAAADiHGwKONT6NaDsIT2EG9fkRkjjlCnZaPfu0LqlxLeyDZROPkr_YR5kC2SRV3NSztLmhnd7Kq7NQu2OlvhY6iTRhLzAzynFSZF6SX53P3FlwALrhdf2_q6MkVYsrNk4MHPui6Fo39JQS1vsjV9X-NdR7N-ph5WKyrZb6A8QaXluX1EeM0j42jLbIqI39UPLFFxIQxiOcgdDDD5nQG-7E5pYtCRoUHZSThsRrm_cGJK_bjoAgpWG51sc",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Jana Palacha 324"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.028678,
+          "lng" : 15.77061
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "431faa6a50fe003da574ced4e6d7e0d5aaca05a9",
+      "name" : "Chvalovský Josef",
+      "place_id" : "ChIJk9ohs5DMDUcRTt21SRgG1v8",
+      "reference" : "CoQBcwAAAGPYDr1V4krRzZ_HPYYzAfpdqV9VeY0ydr-sm_yvzKmIXyzXlBfu8GI6-LkOkx4OJwnm0CibCj725MwfMGwdbpdYawpQD-FqP2duHveQ6GCUctLhmR_kUFs34Ug4DEFK5J4dXKLbKkdMXDirVRCe4qEuTcBm2dlpwVxMw1VpodcVEhAf3PQeg9DdAFrjp2btd9VbGhQ8O0bDymtLUghbFSlVTzsX0kLG9Q",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Jana Palacha 434, Pardubice V"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 50.028685,
+          "lng" : 15.77061
+        }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a406104f5a1dd5c25a88d0e79aeeb35a6dad3615",
+      "name" : "Noe-výroba Plastových Lodí A Nádrží",
+      "place_id" : "ChIJvYohs5DMDUcRToVbon063_w",
+      "reference" : "CpQBiwAAACnWJCclZEaCl08ppW2bqyt58k0fR_DID1PC9Crf6AKKHg9b0vaEep1LGvdNYAAoiTqqPcR-YcDtcGC1lYJuul0rQya0mFLg-v98hpf_-9gtHyw1MSxyEed0_OwK4gQfJ3fwKyPkC5Begn7AClM9h3c3_x8mRPQWyAllleRnMvr_Nvf0bfslUz704CnboG2_sxIQbqWD8tb2gINPsKGrvcZfAxoU8mUvBrUlHX-j76TXG9hMHX0eAXA",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "vicinity" : "Jana Palacha 324, Pardubice V"
+    }
+  ],
+  "status" : "OK"
+}
